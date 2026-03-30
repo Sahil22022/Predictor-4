@@ -5,4 +5,3 @@ numpy>=1.26.0
 scikit-learn>=1.4.0
 plotly>=5.20.0
 xgboost>=2.0.0
-tensorflow>=2.15.0
